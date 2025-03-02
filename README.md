@@ -11,3 +11,4 @@ I recently developed a Quiz Application with a Timer using Java, which helped me
 ✅ Score Calculation 
 
 #output
+![Image](https://github.com/user-attachments/assets/37f55349-c10d-4fba-894a-321c6def43e5)
